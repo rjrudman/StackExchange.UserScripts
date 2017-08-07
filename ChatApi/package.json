@@ -1,0 +1,10 @@
+{
+  "name": "stackexchange.chatapi",
+  "version": "1.0.0",
+  "description": "An API designed for userscripts to interact with chat channels on StackExchange",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Robert Rudman <rjrudman@gmail.com> (https://github.com/rjrudman/TSLinq)",
+  "license": "ISC"
+}

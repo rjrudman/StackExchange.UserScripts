@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Robert Rudman <rjrudman@gmail.com> (https://github.com/rjrudman/TSLinq)",
+  "license": "ISC"
+}
